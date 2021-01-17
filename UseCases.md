@@ -3,6 +3,8 @@
 
 ## Playlist bearbeiten
 
+## Playlist ansehen
+
 ## Playlist löschen
 
 ## Playlist abspielen
