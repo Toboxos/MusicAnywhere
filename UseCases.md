@@ -61,3 +61,23 @@ Der vorherige Song aus der Warteschlange wird abgespielt.
 
 ## Lautstärke regeln
 Der User kann die Lautstärke der aktuellen Wiedergabe einstellen.
+
+# Topic: User System
+## Account erstellen
+Der User kann einen Account erstellen.
+Dafür muss er zuerst eine Platform verknüpfen, diese wird später für die Anmeldung benutzt.
+Bei der Accounterstellung kann der User einen einzigartigen Username festlegen und ein Profilbild hochladen.
+
+## Anmelden
+Der User kann sich anmelden, indem er sich mit einer unterstützen Platform anmeldet.
+Der User wird dann mit dem Useraccount angemeldet, welcher mit der genutzten Account der anderen Platform verknüpft ist.
+
+## Abmelden
+Der User kann sich abmelden. Um die Platform erneut nutzen zu können muss sich der User erst wieder anmelden.
+
+## Account-Details bearbeiten
+Der User kann sein Profilbilder ändern.
+
+## Platform verknüpfen
+Der User kann seinen Account mit einem Account einer anderen Platform verknüpfen.
+Wird zBsp benötigt um Spotify Songs abzuspielen.
